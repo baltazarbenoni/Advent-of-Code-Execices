@@ -1,2 +1,2 @@
 # Advent-of-Code-Execices
-Solutions to some 'Advent of Code' -exercices. (https://adventofcode.com)
+Answers (some working, some not) to 'Advent of Code' -exercices. (https://adventofcode.com)
